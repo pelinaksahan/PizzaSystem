@@ -1,0 +1,19 @@
+ ***Please choose your pizza:
+  1- Classic Pizza > $10
+  2- Margherita Pizza > $20
+  3- FourFromages Pizza > $35
+  4- Supreme Pizza > $13
+  5- Pepperoni Pizza > $16
+  6- Gennaro Pizza > $18
+  7- Special Pizzaland > $20
+  *** Select the materials you want to add:
+  8- Olive > $0.25
+  9- Mushroom > $0.4
+  10- Cheese > $0.5
+  11- Meat > $1.5
+  12- Onion > $0.25
+  13- Sweetcorn > $0.20
+  14- Sausage > $0.5aaaa
+  15- Peperoni > $0.39
+  16- Pineapple > $0.5
+  ***Thanks!!! 
